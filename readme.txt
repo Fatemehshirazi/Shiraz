@@ -1,5 +1,5 @@
 Hej,
 
-Det snöar här idag.
-
-Hälsar
+Det snÃ¶ar hÃ¤r idag.
+Temperaturen Ã¤r -2 grader.
+HÃ¤lsar
