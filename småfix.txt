@@ -1,2 +1,3 @@
 Som tur hade vi bättre väder idag.
 Det var solig men mycket kallt.
+ändringar i småfix.txt som gjordes på branch skall inkluderas i master.
