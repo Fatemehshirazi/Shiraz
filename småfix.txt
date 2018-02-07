@@ -1,3 +1,4 @@
-Som tur hade vi bättre väder idag.
+Som tur hade vi bÃ¤ttre vÃ¤der idag.
 Det var solig men mycket kallt.
-ändringar i småfix.txt som gjordes på branch skall inkluderas i master.
+Ã¤ndringar i smÃ¥fix.txt som gjordes pÃ¥ branch skall inkluderas i master.
+Vi fixar det via branch hotfix.
