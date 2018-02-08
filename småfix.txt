@@ -1,9 +1,0 @@
-Som tur hade vi bÃ¤ttre vÃ¤der idag.
-Det var solig men mycket kallt.
-<<<<<<< HEAD
-ändringar i småfix.txt som gjordes på branch skall inkluderas i master.
-Ändringar kommer från hotfix branch.
-=======
-Ã¤ndringar i smÃ¥fix.txt som gjordes pÃ¥ branch skall inkluderas i master.
-Vi fixar det via branch hotfix.
->>>>>>> hotfix
