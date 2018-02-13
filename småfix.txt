@@ -3,3 +3,4 @@ Hello,
 Today we want do more exercises about merging.
 Ska vi prova och göra några ändringar.
 Ska vi se nu om atom funkar.
+We will do some tests in Git Gui.
